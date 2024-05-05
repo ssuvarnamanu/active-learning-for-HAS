@@ -42,8 +42,8 @@ A Python version of 3.7 or above is recommended. Most of the code is developed u
 
 To use the package, we recommended to create a dedicated `conda` or environment, for example:
 
-conda create -n active-learning python=3.7
-conda activate active-learning
+* conda create -n active-learning python=3.7
+* conda activate active-learning
 
 The codes can also be run on an exisiting environment provided the above listed packages are systemically installed using pip or conda commands.
 
