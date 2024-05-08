@@ -8,7 +8,7 @@ This repository contains the code for the paper title Active learning streamline
 - [Data preparation](#data-preparation)
 - [Model training](#training)
 
-- # Overview
+# Overview
 
 This repository contains the codes and dataset to train models for an active learning loop using the Gaussian process surrogate model with the Bayesian optimization.  
 This repository contains the following:
@@ -17,7 +17,7 @@ This repository contains the following:
 * For each notebook, we provide the curated data in clean Excel sheets which are labelled corresponding to the phases.
 * Necessary instructions to run the model and expected outcome are provided as comments in the notebook.
 
-- # System Requirements
+# System Requirements
 
 ## Hardware requirements
 The code can run on any standard computer.
