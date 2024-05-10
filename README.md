@@ -35,7 +35,7 @@ A Python version of 3.7 or above is recommended. Most of the code is developed u
 * Scikit-learn 1.3.0
 * Tensorflow 2.12.1
 * GPflow 2.9.0
-* Trieste  
+* Trieste 3.1.0  
 * Shap 0.40.0
 
 - # Installation guide
