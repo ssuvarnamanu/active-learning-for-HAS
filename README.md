@@ -16,6 +16,7 @@ This repository contains the following:
 * There are three jupyter notebooks, specific to three distinct phases of the research project.
 * For each notebook, we provide the curated data in clean Excel sheets which are labelled corresponding to the phases.
 * Necessary instructions to run the model and expected outcome are provided as comments in the notebook.
+* We provide a txt file titled "Packages_versions" which includes the list of all the library packages used to run the model.
 
 # System Requirements
 
